@@ -37,7 +37,7 @@ BTC Connect takes advantage of ERC-4337 alongside (Bitcoin) Layer-2 EVM-compatib
 
 ### Clone this repository
 ```
-git clone https://github.com/soos3d/btc-connect-B2-react-app.git
+git clone https://github.com/Particle-Network/btc-olympics-workshop
 ```
 
 ### Access the React app project
